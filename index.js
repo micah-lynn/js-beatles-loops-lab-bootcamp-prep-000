@@ -23,7 +23,7 @@ function iLoveTheBeatles(number) {
   do {
     if (number<15) {
       var numberOfTimes = 15 - number;
-      for 
+      for (var i = 0, i < numberOfTimes, i++)
     }
   }
 }
