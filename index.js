@@ -12,7 +12,8 @@ function johnLennonFacts(array) {
   while (count > 0) {
     for (var i = 0; i < array.length; i++) {
       emptyarray.push(`${array[i]}!!!`);
-    i++;
+      count--;
+    }
   }
   return array;
 }
