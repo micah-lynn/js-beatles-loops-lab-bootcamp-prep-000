@@ -30,6 +30,6 @@ function iLoveTheBeatles(number) {
     else if (number>=15) {
       emptyarray.push("I love the Beatles!")
     }
-    return emptyarray
+    return (emptyarray)
   }
 }
