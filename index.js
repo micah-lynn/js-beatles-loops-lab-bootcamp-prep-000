@@ -31,5 +31,5 @@ function iLoveTheBeatles(number) {
       emptyarray.push("I love the Beatles!")
     }
     return (emptyarray)
-  } while (number >1)
+  } while (number >1);
 }
