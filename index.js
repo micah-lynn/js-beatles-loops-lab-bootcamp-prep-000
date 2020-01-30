@@ -15,5 +15,5 @@ function johnLennonFacts(array) {
       count--;
     }
   }
-  return array;
+  return emptyarray;
 }
