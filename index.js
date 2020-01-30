@@ -27,5 +27,6 @@ function iLoveTheBeatles(number) {
         emptyarray.push("I love the Beatles!")
       }
     }
+    else if (number)
   }
 }
